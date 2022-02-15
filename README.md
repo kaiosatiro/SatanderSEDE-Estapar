@@ -6,8 +6,6 @@ Para agilizar elaborei esses executáveis:
 
 **Bicicletario** - Elabora uma relação dos usuários do bicicletario por nome, matricula e prisma. Sua base de dados é uma planilha do Excel. Para o adm da Estapar
 
-**Relacao_usuarios_grupo** - Formata uma relação dos usuários ativos e inativos, do arquivo bruto .csv do Manager.
-
 **Relatorio_Permanencia** - Elabora uma relação dos acessos ao estacionamentos por data/horário, no formato solicitado pelo Adm da Estapar.
 
 **Relatorios_TAGvsPLACAS**  - Extrai os valores para o calculo do desempenho do sistema de leitura de placas. Para monitoramento do desempenho mensal.
